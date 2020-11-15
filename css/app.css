@@ -625,19 +625,19 @@ body {
 -----------------------------------------------  */
 
 .preload-00 {
-    background: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner1_v001.jpg);
+    background: url(images/banner1_v001.jpg);
 }
 
 .preload-01 {
-    background: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner2_v001.jpg);
+    background: url(images/banner2_v001.jpg);
 }
 
 .preload-02 {
-    background: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner3_v001.jpg);
+    background: url(images/banner3_v001.jpg);
 }
 
 .preload-03 {
-    background: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner4_v001.jpg);
+    background: url(images/banner4_v001.jpg);
 }
 
 .pureba {
@@ -702,7 +702,7 @@ body {
     background-repeat: no-repeat;
     background-position: 50%;
     z-index: 1;
-    background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner-1-sm_v005.jpg);
+    background-image: url(images/banner-1-sm_v005.jpg);
     /* -webkit-animation: slider-sm ease-in-out 1s both infinite;
     -moz-animation: slider-sm ease-in-out 1s both infinite;
     animation: slider-sm ease-in-out 1s both infinite; */
@@ -710,7 +710,7 @@ body {
 
 @media (min-width: 58em) {
     .sect-banner .banner-bg {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner1_v005.jpg);
+        background-image: url(images/banner1_v005.jpg);
         -webkit-animation: slider-lg ease-in-out 30s both infinite;
         -moz-animation: slider-lg ease-in-out 30s both infinite;
         animation: slider-lg ease-in-out 30s both infinite;
@@ -718,7 +718,7 @@ body {
 }
 
 .signup {
-    background-image: url("https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/signup.png");
+    background-image: url("images/signup.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -822,55 +822,55 @@ body.is-loading .sect-banner .more {
 
 @-webkit-keyframes slider-lg {
     0% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner1_v005.jpg);
+        background-image: url(images/banner1_v005.jpg);
     }
     25% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner2_v005.jpg);
+        background-image: url(images/banner2_v005.jpg);
     }
     50% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner3_v005.jpg);
+        background-image: url(images/banner3_v005.jpg);
     }
     75% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner4_v005.jpg);
+        background-image: url(images/banner4_v005.jpg);
     }
     100% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner1_v005.jpg);
+        background-image: url(images/banner1_v005.jpg);
     }
 }
 
 @-moz-keyframes slider-lg {
     0% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner1_v005.jpg);
+        background-image: url(images/banner1_v005.jpg);
     }
     25% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner2_v005.jpg);
+        background-image: url(images/banner2_v005.jpg);
     }
     50% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner3_v005.jpg);
+        background-image: url(images/banner3_v005.jpg);
     }
     75% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner4_v005.jpg);
+        background-image: url(images/banner4_v005.jpg);
     }
     100% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner1_v005.jpg);
+        background-image: url(images/banner1_v005.jpg);
     }
 }
 
 @keyframes slider-lg {
     0% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner1_v005.jpg);
+        background-image: url(images/banner1_v005.jpg);
     }
     25% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner2_v005.jpg);
+        background-image: url(images/banner2_v005.jpg);
     }
     50% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner3_v005.jpg);
+        background-image: url(images/banner3_v005.jpg);
     }
     75% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner4_v005.jpg);
+        background-image: url(images/banner4_v005.jpg);
     }
     100% {
-        background-image: url(https://dyoingenieria.sgp1.digitaloceanspaces.com/caritasalegres/page/banner1_v005.jpg);
+        background-image: url(images/banner1_v005.jpg);
     }
 }
 
